@@ -17,7 +17,7 @@ After cloned, install the Node Modules:
 ```
 npm install
 ```
-Once all of the dependencies have been installed you can launch the app with
+Once all of the dependencies have been installed you can launch the app:
 ```
 npm start
 ```
