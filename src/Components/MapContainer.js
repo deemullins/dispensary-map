@@ -62,7 +62,7 @@ class MapContainer extends Component {
               title={place.name}
               position={{lat: place.location.lat, lng: place.location.lng}}
               onClick={this.onMarkerClick}
-              animation={this.state.activeMarker.name === place.name &&this.props.google.maps.Animation.BOUNCE}
+              animation={this.state.activeMarker.name === place.name && this.props.google.maps.Animation.BOUNCE}
             />
           )}
           <InfoWindow

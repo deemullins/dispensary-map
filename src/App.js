@@ -60,7 +60,7 @@ class App extends Component {
         rating: ''
       },
       { 
-        name: "Bloom Dispensary Phoenix",
+        name: "Monarch Wellness Center",
         location: {
           lat: 33.4475244, 
           lng: -111.9919034
@@ -83,7 +83,7 @@ class App extends Component {
   // Fetch FourSquare data from API
   getFourSquareData = () => {
     const newPlaces = this.state.places.map((place) => {
-      const size = 150
+      const size = 150;
       FourSquareAPI.getFourSquareVenueID(place.location.lat, place.location.lng, place.name)
         .then((venueId) => {
           FourSquareAPI.getFourSquareVenueInfo(venueId)

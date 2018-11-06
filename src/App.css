@@ -2,6 +2,11 @@
   text-align: center;
 }
 
+.gm-style-iw {
+  height: 350px;
+  width: 200px;
+}
+
 
 /* Top nav bar */
 
@@ -55,7 +60,7 @@
 
 .map-sidebar {
   position: absolute;
-  width: 250px;
+  width: 225px;
   margin-top: 75px;
   height: calc(100% - 76px);
   background-color: white;
@@ -88,6 +93,5 @@
 .error-screen-message {
   text-align: center;
 }
-
 
 
