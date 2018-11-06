@@ -26,11 +26,5 @@ A new browser window should automatically open displaying the app.  If it doesn'
 * Clicking on markers will toggle an information window which displays information on the location.
 * Toggling the nav bar will open a filterable list of dispensaries.
 
-### Resources and Documentation:
-* [Create-react-app Documentation](https://github.com/facebookincubator/create-react-app)
-* [React Router Documentation](http://knowbody.github.io/react-router-docs/)
-* [React Training/React Router](https://reacttraining.com/react-router/web/api/BrowserRouter)
-* [React API](https://facebook.github.io/react/docs/react-api.html)
-* [FourSquare API Documentation](https://developer.foursquare.com/docs)
 
 # dispensary-map
