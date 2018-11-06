@@ -1,3 +1,6 @@
+/* Resource: https://www.youtube.com/watch?v=5J6fs_BlVC0 by Ryan Waite
+https://www.youtube.com/watch?v=lDVaZY0aG2w&t=14s by Forrest Walker */
+
 import React, { Component } from 'react';
 import './App.css';
 import MapContainer from './Components/MapContainer';
