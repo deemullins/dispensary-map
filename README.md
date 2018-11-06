@@ -9,9 +9,12 @@ This app was built using React to demonstrate proficiency with skills learned ov
 
 The project uses Node.js.  If you do not have Node >= 6.x installed, you can download it here: [Node.js](https://nodejs.org/en/)
 
-Once Node is installed, navigate to the directory where you want to store the app
+Once Node is installed, clone the repo in the directory you wish:
 ```
 git clone https://github.com/deemullins/dispensary-map.git
+```
+After cloned, install the Node Modules:
+```
 npm install
 ```
 Once all of the dependencies have been installed you can launch the app with
